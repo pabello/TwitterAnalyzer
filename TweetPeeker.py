@@ -368,7 +368,7 @@ def display_help():
           '\n'
           'optional arguments:\n'
           '  -a, --analyze\t\t\t performs analysis for the topics after fetching\n'
-          '  -d, --dry-run [a,b...]\t\t runs without saving passed topics to the file\n'
+          '  -d, --dry-run [a,b...]\t runs without saving passed topics to the file\n'
           '  -h, --help\t\t\t show this help message and exit\n'
           '  -r, --remove [a,b...]\t\t remove keywords from topic list\n'
           '  -t, --topics\t\t\t list followed topics\n'

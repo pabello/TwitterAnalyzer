@@ -9,14 +9,13 @@ Tweepy library was used to interact with Twitter API
 - Extractor.py - analyzes the content
 - PlotTwister.py - draws statistics plots
 
+### At the moment this project is platform dependent and designed for Linux. Also requires replacing existing Access Tokens.
 ## How to run:
 ```
 python3 TweetPeeker.py --help  -  shows all available options
 python3 Extractor.py --help  -  shows all available options
 python3 PlotTwister.py
 ```
-
-### At the moment this project is platform dependent and designed for Linux.
 
 ## What I have learned:
 - usage of tweepy
@@ -27,5 +26,5 @@ python3 PlotTwister.py
 - capabilities of Twitter Search API
 - & a lot more
 
-#### Although this project does not contain any difficult algorithms (so far) it became quite complex and time consuming, but also gave me a lot of satisfaction. I am hoping to develop it more in the future, especially the analysis part, to let it create true insights of whats happening in the Internet.
+Although this project does not contain any difficult algorithms (so far) it became quite complex and time consuming, but also gave me a lot of satisfaction. I am hoping to develop it more in the future, especially the analysis part, to let it create true insights of whats happening in the Internet.
 
