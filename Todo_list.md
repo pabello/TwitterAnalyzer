@@ -1,0 +1,26 @@
+### To do list:
+- [x] continuous scanning
+- [x] passing arguments to the program
+- [x] custom keywords
+- [x] going back to the beginning when finished
+- [x] clean-up and convert to a class
+- [x] reading last id for pagination
+- [x] get different max_id for every query without always reading a file
+- [x] test unwrapping against this chinese marks (freakin bushes)
+- [ ] adding words to black list using Extractor.py arguments
+- [x] changing analyzed language with argument
+- [x] saving analyses to language marked files
+- [x] saving also statistics on how much of the tweets was in given language
+- [x] secure topic_head file in case of a crash
+- [x] take care of hashtags with lower and upper case
+- [x] limit going back to newest tweets only to cases when the file with the keyword already existed
+- [x] parameter for loading data without saving the topic (dry run)
+- [x] perform analysis after fetching on argument
+- [x] check for language if performing analysis
+- [x] sum followers only for distinct users
+- [x] extract hashtags
+- [x] unsort dates in plotter and skip first and last day
+- [x] plotter parameter, to plot transparent charts
+- [ ] plotting with argument for scrapper and for analyzer
+- [ ] do not plot if nothing changed (save timestamp in analysis file, also name the plots with this time)
+
